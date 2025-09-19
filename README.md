@@ -1,16 +1,21 @@
-## Hi there 👋
+Olá, eu sou Dimas! 👋
+Bem-vindo ao meu perfil do GitHub!
 
-<!--
-**Dimas-Rocha/Dimas-Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
+💻 Desenvolvedor Back-end
+🎓 Formação em Analise e Desenvolvimento de Sistemas
+🌍 Localização: São Paulo / Brasil
+📫 Email: dimas.dasp@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/dimas-rocha-dev
+___________________________________________________
+Hello, I'm Dimas! 👋
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+About me
+💻 Back-end Developer
+🎓 Training in Systems Analysis and Development
+🌍 Location: São Paulo / Brazil
+📫 Email: dimas.dasp@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/dimas-rocha-dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
