@@ -39,8 +39,17 @@ Welcome to my GitHub profile!
 <br>
 ## 📊 GitHub Stats
 
-![Dimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimas-Rocha&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/Dimas-Rocha">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dimas-Rocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimas-Rocha&layout=compact&langs_count=6&theme=radical&hide=tex,html,scss,typescript,vue"/>
+  </a>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimas-Rocha&layout=compact&theme=radical)
-          
-                    
+<br>
+
+<div align="center">
+  <a href="https://github.com/Dimas-Rocha">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dimas-Rocha&theme=radical" />
+  </a>
+</div>
