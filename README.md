@@ -1,57 +1,34 @@
 
-# Hello, I'm Dimas! 👋
+#Hello, I'm Dimas! 👋
+--------------------------
 
-Welcome to my GitHub profile!
 
-## About Me
 
-- 💻 Back-end Developer
-- 🎓 Training in Systems Analysis and Development
-- 🌍 Location: São Paulo / Brazil
-- 📫 Email: dimas.dasp@gmail.com
-- 🔗 LinkedIn: [www.linkedin.com/in/dimas-rocha-dev](https://www.linkedin.com/in/dimas-rocha-dev)
+Welcome to my GitHub profile! I'm a passionate Back-end Developer from São Paulo, Brazil, focused on building robust and scalable server-side applications.
 
-## 🛠️ Technologies & Tools
+🚀 About Me
+------------------------
+💻 Back-end Developer with hands-on experience in Java-based systems
 
-### Programming Languages
-<img align="left" alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+🎓 Currently pursuing Systems Analysis and Development degree
 
-<br>
-<br>
+🌍 Based in São Paulo, Brazil
 
-### Version Control & DevOps
-<img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Kubernetes" title="Kubernetes" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+📫 Email: dimas.dasp@gmail.com
 
-<br>
-<br>
+🔗 LinkedIn: www.linkedin.com/in/dimas-rocha-dev
 
-### Development Tools
-<img align="left" alt="Eclipse" title="Eclipse" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+💡 Always eager to learn new technologies and improve my coding skills
 
-<br>
-<br>
-
-### Testing
-<img align="left" alt="JUnit" title="JUnit" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
-
-<br>
-<br>
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Dimas-Rocha">
-  <!--
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dimas-Rocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimas-Rocha&layout=compact&langs_count=6&theme=radical&hide=tex,html,scss,typescript,vue"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/Dimas-Rocha">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dimas-Rocha&theme=radical" />
-  </a>
-</div>
+🛠️ Tech Stack
+Programming Languages & Frameworks
+---------------
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" title="Spring" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="50" height="50" /> </p>
+Databases
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="50" height="50" /> </p>
+DevOps & Tools
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="50" height="50" /> </p>
+Development Environment
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="50" height="50" /> </p>
+Testing & Quality
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="JUnit" title="JUnit" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mockito/mockito-original.svg" alt="Mockito" title="Mockito" width="50" height="50" /> </p>
